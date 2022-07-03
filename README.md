@@ -14,7 +14,7 @@ Thourough my studies, I have used:
 - jQuery
 - Jest
 - Sass
-- TailWind CSS
+- Tailwind CSS
 - Python
 - Php
 - Figma
