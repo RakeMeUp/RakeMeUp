@@ -1,3 +1,5 @@
+![https://www.codewars.com/users/RakeMeUp](https://www.codewars.com/users/RakeMeUp/badges/small)
+
 # Hi, I am Bence!
 
 I currently studying to be a front-end developer.
