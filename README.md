@@ -11,6 +11,7 @@ Thourough my studies, I have used:
   - useContext
   - useEffect
 - JavaScript
+- TypeScript
 - jQuery
 - Jest
 - Sass
