@@ -12,15 +12,9 @@ Thourough my studies, I have used:
   - useRef
   - useContext
   - useEffect
-- JavaScript
-- TypeScript
-- jQuery
-- Jest
-- Sass
-- Tailwind CSS
-- Python
-- Php
-- Figma
+- JavaScript / TypeScript
+- Sass / Tailwind CSS
+- a bit of Python, Php
 
 ## I recommend looking through these:
 
