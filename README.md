@@ -32,7 +32,7 @@ Thourough my studies, I have used:
  
 ### React + TS
 
-  [myGiSLogger WIP](https://github.com/RakeMeUp/myGISLogger)
+  [myGiSLogger  > heavily WIP](https://github.com/RakeMeUp/myGISLogger)
 
 ### VanillaJS
 
