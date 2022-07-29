@@ -29,6 +29,10 @@ Thourough my studies, I have used:
   [Rock, Paper, Scissors](https://github.com/RakeMeUp/RoPaSci)
 
   [Kcal Counter](https://github.com/RakeMeUp/Kcal-Counter)
+ 
+### React + TS
+
+  [myGiSLogger WIP](https://github.com/RakeMeUp/myGISLogger)
 
 ### VanillaJS
 
