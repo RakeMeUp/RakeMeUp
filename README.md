@@ -21,7 +21,6 @@ Thourough my studies, I have used:
 - Python
 - Php
 - Figma
-- Trello
 
 ## I recommend looking through these:
 
