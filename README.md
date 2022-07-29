@@ -18,16 +18,15 @@ Thourough my studies, I have used:
 
 ## I recommend looking through these:
 
+## My Most Recent Work:
+  [myGiSLogger  > heavily WIP](https://github.com/RakeMeUp/myGISLogger)
+
 ### React + Sass
 
   [Rock, Paper, Scissors](https://github.com/RakeMeUp/RoPaSci)
 
   [Kcal Counter](https://github.com/RakeMeUp/Kcal-Counter)
  
-### React + TS
-
-  [myGiSLogger  > heavily WIP](https://github.com/RakeMeUp/myGISLogger)
-
 ### VanillaJS
 
   [Monty Hall Game](https://github.com/RakeMeUp/MontyHall)
