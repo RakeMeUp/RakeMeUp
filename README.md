@@ -20,6 +20,8 @@ Thourough my studies, I have used:
 
 ### My Most Recent Work:
   [myGiSLogger  > heavily WIP](https://github.com/RakeMeUp/myGISLogger)
+ 
+---
 
 ### React + Sass
 
