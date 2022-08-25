@@ -12,6 +12,7 @@ Thourough my studies, I have used:
   - useRef
   - useContext
   - useEffect
+  - useMemo
 - JavaScript / TypeScript
 - Sass / Tailwind CSS
 - a bit of Python, Php
