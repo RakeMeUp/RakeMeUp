@@ -8,11 +8,7 @@ In my repositories, you may find multiple projects, made with different stacks.
 
 Thourough my studies, I have used:
 - React with Hooks
-  - useState
-  - useRef
-  - useContext
-  - useEffect
-  - useMemo
+  - Redux
 - JavaScript / TypeScript
 - Sass / Tailwind CSS
 - a bit of Python, Php
