@@ -8,9 +8,11 @@ In my repositories, you may find multiple projects, made with different stacks.
 
 Thourough my studies, I have used:
 - React with Hooks
+  - Router
   - Redux
+  - React Transition Group
 - JavaScript / TypeScript
-- Sass / Tailwind CSS
+- Sass / Tailwind CSS / Styled Components
 - a bit of Python, Php
 
 ## I recommend looking through these:
