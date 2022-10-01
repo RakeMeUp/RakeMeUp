@@ -16,8 +16,7 @@ Thourough my studies, I have used:
 ## I recommend looking through these:
 
 ### My Most Recent Work:
-  [myGiSLogger  > heavily WIP](https://github.com/RakeMeUp/myGISLogger)
- 
+ [Portfolio](https://bespoke-naiad-5a277a.netlify.app/)
 ---
 
 ### React + Sass
