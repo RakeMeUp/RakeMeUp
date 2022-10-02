@@ -18,7 +18,7 @@ Thourough my studies, I have used:
 ## I recommend looking through these:
 
 ### My Most Recent Work:
- [Portfolio, work in progress](https://bespoke-naiad-5a277a.netlify.app/)
+ [Portfolio, work in progress](https://github.com/RakeMeUp/portfolioReact)
 ---
 
 ### React + Sass
