@@ -7,25 +7,39 @@ I am currently studying to be a front-end developer.
 In my repositories, you may find multiple projects, made with different stacks.
 
 Thourough my studies, I have used:
-- React with Hooks
-  - Router
-  - Redux
-  - React Transition Group
-- JavaScript / TypeScript
-- Sass / Tailwind CSS / Styled Components
-- a bit of Python, Php
+- Front-end:
+  - JavaScript / TypeScript 
+  - React
+    - Redux
+  - Sass / Tailwind CSS / Styled Components
+  - Jest
+- Back-end:
+  - NodeJs
+    - Express
+    - JSONWebToken
+  - MongoDB
+    - Mongoose
+  - MySQL
+  - Postman/Thunder Client
+- University Studies:
+  - C/C++
+  - Java
+  - Python
+  - Racket (really)
 
 ## I recommend looking through these:
 
 ### My Most Recent Work:
- [Portfolio, work in progress](https://github.com/RakeMeUp/portfolioReact)
+ [Simple MERN FullStack App](https://github.com/RakeMeUp/beginnermernstackapp)
 ---
 
-### React + Sass
+### React
 
   [Rock, Paper, Scissors](https://github.com/RakeMeUp/RoPaSci)
 
   [Kcal Counter](https://github.com/RakeMeUp/Kcal-Counter)
+  
+  [Portfolio, work in progress](https://github.com/RakeMeUp/portfolioReact)
  
 ### VanillaJS
 
