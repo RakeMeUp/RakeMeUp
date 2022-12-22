@@ -30,7 +30,7 @@ Thourough my studies, I have used:
 ## I recommend looking through these:
 
 ### My Most Recent Work:
- [Simple MERN FullStack App](https://github.com/RakeMeUp/beginnermernstackapp)
+ [GISLogger](https://github.com/RakeMeUp/nextgis)
 ---
 
 ### React
