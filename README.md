@@ -10,7 +10,7 @@ Thourough my studies, I have used:
 - Front-end:
   - JavaScript / TypeScript 
   - React
-    - Redux
+    - Redux (RTK) / React Context API
   - Sass / Tailwind CSS / Styled Components
   - Jest
 - Back-end:
@@ -19,7 +19,7 @@ Thourough my studies, I have used:
     - JSONWebToken
   - MongoDB
     - Mongoose
-  - MySQL
+  - Oracle SQL
   - Postman/Thunder Client
 - University Studies:
   - C/C++
