@@ -2,7 +2,7 @@
 
 # Hi, I am Bence!
 
-I am currently studying to be a front-end developer.
+I am currently studying to be a Web Developer.
 
 In my repositories, you may find multiple projects, made with different stacks.
 
