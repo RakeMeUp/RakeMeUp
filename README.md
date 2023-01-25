@@ -16,11 +16,13 @@ Thourough my studies, I have used:
 - Back-end:
   - NodeJs
     - Express
-    - JSONWebToken
   - MongoDB
     - Mongoose
   - Oracle SQL
   - Postman/Thunder Client
+- NextJS:
+  - Next-Auth
+  - NextJS 13
 - University Studies:
   - C/C++
   - Java
