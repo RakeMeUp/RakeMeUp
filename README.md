@@ -1,36 +1,5 @@
 ![https://www.codewars.com/users/RakeMeUp](https://www.codewars.com/users/RakeMeUp/badges/small)
 
-# Hi, I am Bence!
-
-I am currently studying to be a Web Developer.
-
-In my repositories, you may find multiple projects, made with different stacks.
-
-Thourough my studies, I have used:
-- Front-end:
-  - JavaScript / TypeScript 
-  - React
-    - Redux (RTK) / React Context API
-  - Sass / Tailwind CSS / Styled Components
-  - Jest
-- Back-end:
-  - NodeJs
-    - Express
-  - MongoDB
-    - Mongoose
-  - Oracle SQL
-  - Postman/Thunder Client
-- NextJS:
-  - Next-Auth
-  - NextJS 13
-- University Studies:
-  - C/C++
-  - Java
-  - Python
-  - Racket (really)
-
-## I recommend looking through these:
-
 ### My Most Recent Work:
  [GISLogger](https://github.com/RakeMeUp/nextgis)
 ---
